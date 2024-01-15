@@ -72,6 +72,8 @@ textarea {
       font-size: 4.5rem; } }
 
 .heading-position {
+  text-underline-offset: 10px;
+    text-decoration: underline;
   font-size: 4rem;
   text-transform: uppercase;
   letter-spacing: 3px;
